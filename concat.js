@@ -1,6 +1,6 @@
 // the concat method allow you to merge two or more array into one new array which
 // will be return
-console.clear();
+console.clear(); // to clear console (using in vs code)
 
 const a = [1, 2, 3];
 const b = [4, 5, 6];
