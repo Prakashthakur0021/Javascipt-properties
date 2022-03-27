@@ -9,7 +9,7 @@
     "decompress-response": "^3.3.0",
     "make-dir": "^3.1.0",
     "mimic-response": "^1.0.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "ms": "^2.1.2",
     "nodemon": "^2.0.4",
     "nopt": "^1.0.10",
